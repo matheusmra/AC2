@@ -21,3 +21,4 @@ loop:
 	j loop
 fim_loop:
 	sw $t2, 400($s0)
+	
