@@ -1,5 +1,5 @@
 
-# Matheus de Almeida Moreira (Refinado)
+# Matheus de Almeida Moreira 
 
 .data
     x: .word -2     
